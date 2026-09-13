@@ -4,7 +4,7 @@ import World from './Component/World';
 function App() {
   return (
     <>
-      <h1>Monari</h1>
+      <h1>Monari Gayathma</h1>
       <World userName="rusiru" />
     </>
   )
